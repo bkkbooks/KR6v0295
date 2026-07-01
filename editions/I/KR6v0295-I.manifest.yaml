@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6v0295/I/v1
+canonical_location: https://kanripo.org/bkk/KR6v0295/I/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 興聖寺四十人等造碑像記
+  identifiers:
+    krp: KR6v0295
+    cbeta: I01n0094
+    cbeta_old_id: I01n0094
+    authorityid: CA0008229
+    json_key: I0094
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0094.xml
+    old_id: I01n0094
+  edition:
+    short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0295_000-I.yaml, hash: 'sha256:731f4ac6332248bdc46234ab7269c8bf9e8da2b5068269cb3e2fe61bae71b069'}
+  - {seq: 1, filename: KR6v0295_001-I.yaml, hash: 'sha256:3a1cf55848a62316653161cd29bd2e16dc5790d807aad31f74292ad45dd6ac84'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0295_000-I.markers.yaml, hash: 'sha256:89805bec99c778232648ce3e26c143b88f97e75e2fbfd432a5b3fd767d5fb0ba'}
+  - {seq: 1, role: markers, filename: assets/KR6v0295_001-I.markers.yaml, hash: 'sha256:216aecafa024aee64de7f8e92604ddee3aa89be67daf672f0a5a4803f53757c1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0295_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 494
+  label: 興聖寺四十人等造碑像記
+  type: juan
+  level: 1
+hash: sha256:b0195b609f4d5e873bea291aa9735390c36b909661bd6dc0ba4e0dc13c17ae04

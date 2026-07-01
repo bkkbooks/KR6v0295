@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6v0295/v1
+canonical_location: https://kanripo.org/bkk/KR6v0295/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 興聖寺四十人等造碑像記
+  identifiers:
+    alt_id:
+    - I01n0094
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0094.xml
+    old_id: I01n0094
+  edition:
+    short: bkk
+editions:
+- short: 佛拓
+  label: 佛拓
+  source_xml_id: wit.orig
+- short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0295_000.yaml, hash: 'sha256:731f4ac6332248bdc46234ab7269c8bf9e8da2b5068269cb3e2fe61bae71b069'}
+  - {seq: 1, filename: KR6v0295_001.yaml, hash: 'sha256:efc73d7ed6ddfdad55df32058274546052189f5b5225147378a65bd092f76f12'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0295_001.markers.yaml, hash: 'sha256:5fed4ddd1a95fe610c6c1ece20912752ccb36172cad99b657ffd1746b917873f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0295_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 494
+  label: 興聖寺四十人等造碑像記
+  type: juan
+  level: 1
+hash: sha256:459645601ce26bf27f8ce771595e726f757483545ccd838905a986d7c9ff0f79
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

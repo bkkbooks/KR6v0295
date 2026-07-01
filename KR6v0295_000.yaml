@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0295/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 興聖寺四十人等造碑像記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0094.xml
+    old_id: I01n0094
+hash: sha256:731f4ac6332248bdc46234ab7269c8bf9e8da2b5068269cb3e2fe61bae71b069
