@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0295/v1
 canonical_location: https://kanripo.org/bkk/KR6v0295/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 興聖寺四十人等造碑像記
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0295_000.yaml, hash: 'sha256:731f4ac6332248bdc46234ab7269c8bf9e8da2b5068269cb3e2fe61bae71b069'}
-  - {seq: 1, filename: KR6v0295_001.yaml, hash: 'sha256:3a1cf55848a62316653161cd29bd2e16dc5790d807aad31f74292ad45dd6ac84'}
+  - {seq: 1, filename: KR6v0295_001.yaml, hash: 'sha256:ec54dabe64f96f19afa0e9db97dc98417e74a935cdb778f95c138c3dd5c2f443'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0295_000.markers.yaml, hash: 'sha256:b5608e034b3022ece3d384ab63f14666af6f6b8f2f9d5ab2dfa8c74ecb1ad4c8'}
-  - {seq: 1, role: markers, filename: assets/KR6v0295_001.markers.yaml, hash: 'sha256:4693c45542e2ad38902f374ab05c972794eb922de625b7812d465a4e147986b2'}
+  - {seq: 1, role: markers, filename: assets/KR6v0295_001.markers.yaml, hash: 'sha256:36c2139d6f04d5a7de4b0b8d9c30df63a4bd6611af84de3bcf395726ba396a25'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 興聖寺四十人等造碑像記
   type: juan
   level: 1
-hash: sha256:f6a6c751cb67e171d59c2c732b61df17118a7ca447835c9a62c565d2520c412c
+hash: sha256:d7c0f5dd4a8afca1fad5ba358293c509a530ff08b97611ce1aaecc046f742f6e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
